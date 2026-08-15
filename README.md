@@ -1,4 +1,3 @@
-# Superstore-Sales-Profit-Analytics-Dashboard
 # 📊 Superstore Sales & Profit Analytics Dashboard
 
 An end-to-end Data Analytics solution that extracts, cleans, models, and visualizes retail sales data from a Superstore dataset. This project leverages **MySQL**, **Python (Google Colab)**, **Excel**, and **Power BI** to deliver actionable insights into revenue, profit margins, regional trends, and product performance.
