@@ -17,8 +17,8 @@ An end-to-end Data Analytics solution that extracts, cleans, models, and visuali
 
 ## 📸 Dashboard Preview
 
-> *Insert a screenshot of your finalized Power BI Dashboard here*
-`![Superstore Dashboard](C:\Users\Texon\Downloads\WhatsApp Image 2026-08-15 at 10.42.19 AM.jpeg)`
+<img width="927" height="550" alt="Super-Store Dashboard" src="https://github.com/user-attachments/assets/b2cce6aa-f56e-44fc-9a12-5979e036bef4" />
+
 
 ---
 
